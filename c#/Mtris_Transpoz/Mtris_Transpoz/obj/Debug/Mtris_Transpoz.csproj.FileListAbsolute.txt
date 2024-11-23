@@ -1,0 +1,7 @@
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Mtris_Transpoz\Mtris_Transpoz\bin\Debug\Mtris_Transpoz.exe.config
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Mtris_Transpoz\Mtris_Transpoz\bin\Debug\Mtris_Transpoz.exe
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Mtris_Transpoz\Mtris_Transpoz\bin\Debug\Mtris_Transpoz.pdb
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Mtris_Transpoz\Mtris_Transpoz\obj\Debug\Mtris_Transpoz.csproj.AssemblyReference.cache
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Mtris_Transpoz\Mtris_Transpoz\obj\Debug\Mtris_Transpoz.csproj.CoreCompileInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Mtris_Transpoz\Mtris_Transpoz\obj\Debug\Mtris_Transpoz.exe
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Mtris_Transpoz\Mtris_Transpoz\obj\Debug\Mtris_Transpoz.pdb

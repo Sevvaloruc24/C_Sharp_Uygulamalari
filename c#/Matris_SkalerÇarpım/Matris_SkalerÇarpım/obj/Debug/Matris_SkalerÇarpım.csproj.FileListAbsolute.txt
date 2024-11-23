@@ -1,0 +1,7 @@
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Matris_SkalerÇarpım\Matris_SkalerÇarpım\bin\Debug\Matris_SkalerÇarpım.exe.config
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Matris_SkalerÇarpım\Matris_SkalerÇarpım\bin\Debug\Matris_SkalerÇarpım.exe
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Matris_SkalerÇarpım\Matris_SkalerÇarpım\bin\Debug\Matris_SkalerÇarpım.pdb
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Matris_SkalerÇarpım\Matris_SkalerÇarpım\obj\Debug\Matris_SkalerÇarpım.csproj.AssemblyReference.cache
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Matris_SkalerÇarpım\Matris_SkalerÇarpım\obj\Debug\Matris_SkalerÇarpım.csproj.CoreCompileInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Matris_SkalerÇarpım\Matris_SkalerÇarpım\obj\Debug\Matris_SkalerÇarpım.exe
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Matris_SkalerÇarpım\Matris_SkalerÇarpım\obj\Debug\Matris_SkalerÇarpım.pdb

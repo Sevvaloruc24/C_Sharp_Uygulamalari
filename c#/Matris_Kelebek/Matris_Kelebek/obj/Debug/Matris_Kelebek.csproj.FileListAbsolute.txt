@@ -1,0 +1,7 @@
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Matris_Kelebek\Matris_Kelebek\bin\Debug\Matris_Kelebek.exe.config
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Matris_Kelebek\Matris_Kelebek\bin\Debug\Matris_Kelebek.exe
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Matris_Kelebek\Matris_Kelebek\bin\Debug\Matris_Kelebek.pdb
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Matris_Kelebek\Matris_Kelebek\obj\Debug\Matris_Kelebek.csproj.AssemblyReference.cache
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Matris_Kelebek\Matris_Kelebek\obj\Debug\Matris_Kelebek.csproj.CoreCompileInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Matris_Kelebek\Matris_Kelebek\obj\Debug\Matris_Kelebek.exe
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Matris_Kelebek\Matris_Kelebek\obj\Debug\Matris_Kelebek.pdb

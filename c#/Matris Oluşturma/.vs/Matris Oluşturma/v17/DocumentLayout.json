@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\onemli klasor\\ProgLab\u00C7al\u0131\u015Fma\\Matris Olu\u015Fturma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1931BBE5-6E94-45BC-979E-FD139ECB4607}|Matris Olu\u015Fturma\\Matris Olu\u015Fturma.csproj|e:\\onemli klasor\\proglab\u00E7al\u0131\u015Fma\\matris olu\u015Fturma\\matris olu\u015Fturma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1931BBE5-6E94-45BC-979E-FD139ECB4607}|Matris Olu\u015Fturma\\Matris Olu\u015Fturma.csproj|solutionrelative:matris olu\u015Fturma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\onemli klasor\\ProgLab\u00C7al\u0131\u015Fma\\Matris Olu\u015Fturma\\Matris Olu\u015Fturma\\Program.cs",
+              "RelativeDocumentMoniker": "Matris Olu\u015Fturma\\Program.cs",
+              "ToolTip": "E:\\onemli klasor\\ProgLab\u00C7al\u0131\u015Fma\\Matris Olu\u015Fturma\\Matris Olu\u015Fturma\\Program.cs",
+              "RelativeToolTip": "Matris Olu\u015Fturma\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T07:12:01.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

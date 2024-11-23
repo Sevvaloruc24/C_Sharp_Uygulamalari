@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\onemli klasor\\ProgLab\u00C7al\u0131\u015Fma\\matris_kum_saati\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60FD4D60-BEFF-43D4-A8B2-A1CD9D89C257}|matris_kum_saati\\matris_kum_saati.csproj|e:\\onemli klasor\\proglab\u00E7al\u0131\u015Fma\\matris_kum_saati\\matris_kum_saati\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FD4D60-BEFF-43D4-A8B2-A1CD9D89C257}|matris_kum_saati\\matris_kum_saati.csproj|solutionrelative:matris_kum_saati\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\onemli klasor\\ProgLab\u00C7al\u0131\u015Fma\\matris_kum_saati\\matris_kum_saati\\Program.cs",
+              "RelativeDocumentMoniker": "matris_kum_saati\\Program.cs",
+              "ToolTip": "E:\\onemli klasor\\ProgLab\u00C7al\u0131\u015Fma\\matris_kum_saati\\matris_kum_saati\\Program.cs",
+              "RelativeToolTip": "matris_kum_saati\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:15:34.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

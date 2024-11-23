@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sevva\\OneDrive\\Masa\u00FCst\u00FC\\ProgLab\u00C7al\u0131\u015Fma\\Mtris_Transpoz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CA9D06-E4A7-4B49-B2A3-348FB250BCA3}|Mtris_Transpoz\\Mtris_Transpoz.csproj|c:\\users\\sevva\\onedrive\\masa\u00FCst\u00FC\\proglab\u00E7al\u0131\u015Fma\\mtris_transpoz\\mtris_transpoz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CA9D06-E4A7-4B49-B2A3-348FB250BCA3}|Mtris_Transpoz\\Mtris_Transpoz.csproj|solutionrelative:mtris_transpoz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sevva\\OneDrive\\Masa\u00FCst\u00FC\\ProgLab\u00C7al\u0131\u015Fma\\Mtris_Transpoz\\Mtris_Transpoz\\Program.cs",
+              "RelativeDocumentMoniker": "Mtris_Transpoz\\Program.cs",
+              "ToolTip": "C:\\Users\\sevva\\OneDrive\\Masa\u00FCst\u00FC\\ProgLab\u00C7al\u0131\u015Fma\\Mtris_Transpoz\\Mtris_Transpoz\\Program.cs",
+              "RelativeToolTip": "Mtris_Transpoz\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:20:47.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\matris_kum_saati\matris_kum_saati\bin\Debug\matris_kum_saati.exe.config
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\matris_kum_saati\matris_kum_saati\bin\Debug\matris_kum_saati.exe
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\matris_kum_saati\matris_kum_saati\bin\Debug\matris_kum_saati.pdb
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\matris_kum_saati\matris_kum_saati\obj\Debug\matris_kum_saati.csproj.AssemblyReference.cache
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\matris_kum_saati\matris_kum_saati\obj\Debug\matris_kum_saati.csproj.CoreCompileInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\matris_kum_saati\matris_kum_saati\obj\Debug\matris_kum_saati.exe
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\matris_kum_saati\matris_kum_saati\obj\Debug\matris_kum_saati.pdb

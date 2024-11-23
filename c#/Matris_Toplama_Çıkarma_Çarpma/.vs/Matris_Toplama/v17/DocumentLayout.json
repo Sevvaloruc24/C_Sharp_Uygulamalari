@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\onemli klasor\\ProgLab\u00C7al\u0131\u015Fma\\Matris_Toplama_\u00C7\u0131karma_\u00C7arpma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4670DF2-D8F7-4236-A86E-F503B93BDBE1}|Matris_Toplama\\Matris_Toplama.csproj|e:\\onemli klasor\\proglab\u00E7al\u0131\u015Fma\\matris_toplama_\u00E7\u0131karma_\u00E7arpma\\matris_toplama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4670DF2-D8F7-4236-A86E-F503B93BDBE1}|Matris_Toplama\\Matris_Toplama.csproj|solutionrelative:matris_toplama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\onemli klasor\\ProgLab\u00C7al\u0131\u015Fma\\Matris_Toplama_\u00C7\u0131karma_\u00C7arpma\\Matris_Toplama\\Program.cs",
+              "RelativeDocumentMoniker": "Matris_Toplama\\Program.cs",
+              "ToolTip": "E:\\onemli klasor\\ProgLab\u00C7al\u0131\u015Fma\\Matris_Toplama_\u00C7\u0131karma_\u00C7arpma\\Matris_Toplama\\Program.cs",
+              "RelativeToolTip": "Matris_Toplama\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T07:18:30.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\matrisKofaktör_Determinant\matrisKofaktör_Determinant\bin\Debug\matrisKofaktör_Determinant.exe.config
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\matrisKofaktör_Determinant\matrisKofaktör_Determinant\bin\Debug\matrisKofaktör_Determinant.exe
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\matrisKofaktör_Determinant\matrisKofaktör_Determinant\bin\Debug\matrisKofaktör_Determinant.pdb
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\matrisKofaktör_Determinant\matrisKofaktör_Determinant\obj\Debug\matrisKofaktör_Determinant.csproj.AssemblyReference.cache
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\matrisKofaktör_Determinant\matrisKofaktör_Determinant\obj\Debug\matrisKofaktör_Determinant.csproj.CoreCompileInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\matrisKofaktör_Determinant\matrisKofaktör_Determinant\obj\Debug\matrisKofaktör_Determinant.exe
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\matrisKofaktör_Determinant\matrisKofaktör_Determinant\obj\Debug\matrisKofaktör_Determinant.pdb

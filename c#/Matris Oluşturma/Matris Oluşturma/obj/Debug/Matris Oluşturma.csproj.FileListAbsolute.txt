@@ -1,0 +1,14 @@
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Matris Oluşturma\Matris Oluşturma\bin\Debug\Matris Oluşturma.exe.config
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Matris Oluşturma\Matris Oluşturma\bin\Debug\Matris Oluşturma.exe
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Matris Oluşturma\Matris Oluşturma\bin\Debug\Matris Oluşturma.pdb
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Matris Oluşturma\Matris Oluşturma\obj\Debug\Matris Oluşturma.csproj.AssemblyReference.cache
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Matris Oluşturma\Matris Oluşturma\obj\Debug\Matris Oluşturma.csproj.CoreCompileInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Matris Oluşturma\Matris Oluşturma\obj\Debug\Matris Oluşturma.exe
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Matris Oluşturma\Matris Oluşturma\obj\Debug\Matris Oluşturma.pdb
+E:\onemli klasor\ProgLabÇalışma\Matris Oluşturma\Matris Oluşturma\bin\Debug\Matris Oluşturma.exe.config
+E:\onemli klasor\ProgLabÇalışma\Matris Oluşturma\Matris Oluşturma\bin\Debug\Matris Oluşturma.exe
+E:\onemli klasor\ProgLabÇalışma\Matris Oluşturma\Matris Oluşturma\bin\Debug\Matris Oluşturma.pdb
+E:\onemli klasor\ProgLabÇalışma\Matris Oluşturma\Matris Oluşturma\obj\Debug\Matris Oluşturma.csproj.AssemblyReference.cache
+E:\onemli klasor\ProgLabÇalışma\Matris Oluşturma\Matris Oluşturma\obj\Debug\Matris Oluşturma.csproj.CoreCompileInputs.cache
+E:\onemli klasor\ProgLabÇalışma\Matris Oluşturma\Matris Oluşturma\obj\Debug\Matris Oluşturma.exe
+E:\onemli klasor\ProgLabÇalışma\Matris Oluşturma\Matris Oluşturma\obj\Debug\Matris Oluşturma.pdb

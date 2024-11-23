@@ -1,0 +1,7 @@
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Matris_Toplama\Matris_Toplama\bin\Debug\Matris_Toplama.exe.config
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Matris_Toplama\Matris_Toplama\bin\Debug\Matris_Toplama.exe
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Matris_Toplama\Matris_Toplama\bin\Debug\Matris_Toplama.pdb
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Matris_Toplama\Matris_Toplama\obj\Debug\Matris_Toplama.csproj.AssemblyReference.cache
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Matris_Toplama\Matris_Toplama\obj\Debug\Matris_Toplama.csproj.CoreCompileInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Matris_Toplama\Matris_Toplama\obj\Debug\Matris_Toplama.exe
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\Matris_Toplama\Matris_Toplama\obj\Debug\Matris_Toplama.pdb

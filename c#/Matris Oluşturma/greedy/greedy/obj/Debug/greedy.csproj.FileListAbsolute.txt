@@ -1,0 +1,7 @@
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\greedy\greedy\bin\Debug\greedy.exe.config
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\greedy\greedy\bin\Debug\greedy.exe
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\greedy\greedy\bin\Debug\greedy.pdb
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\greedy\greedy\obj\Debug\greedy.csproj.AssemblyReference.cache
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\greedy\greedy\obj\Debug\greedy.csproj.CoreCompileInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\greedy\greedy\obj\Debug\greedy.exe
+C:\Users\sevva\OneDrive\Masaüstü\ProgLabÇalışma\greedy\greedy\obj\Debug\greedy.pdb
